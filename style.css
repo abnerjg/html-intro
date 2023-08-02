@@ -1,0 +1,18 @@
+body {
+    background-color: ghostwhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+}
+
+table {
+    width: 100%;
+    background-color: antiquewhite;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th, td, tr {
+border: solid 1px black;
+padding: 10;
+
+}
