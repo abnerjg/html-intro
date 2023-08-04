@@ -2,17 +2,23 @@ body {
     background-color: ghostwhite;
     font-family: 'Times New Roman', Times, serif;
     font-size: small;
+    margin: 10 auto;
 }
 
 table {
-    width: 100%;
+    width: 70%;
     background-color: antiquewhite;
     text-align: center;
     border-collapse: collapse;
+    margin: 0 auto;
 }
 
 th, td, tr {
 border: solid 1px black;
 padding: 10;
+}
 
+.container {
+    font-size: 20px;
+    
 }
