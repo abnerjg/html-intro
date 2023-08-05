@@ -16,9 +16,16 @@ table {
 th, td, tr {
 border: solid 1px black;
 padding: 10;
+font-size: 20px;
 }
 
 .container {
     font-size: 20px;
-    
+}
+
+button {
+    background-color: aqua;
+    width: 150px;
+    height: 100px;
+    align-items: center;
 }
